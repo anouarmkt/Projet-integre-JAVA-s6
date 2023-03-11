@@ -21,7 +21,7 @@ public class SingletonConnection {
               
               Class.forName("com.mysql.jdbc.Driver");  
                
-                connection = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/projetintegre","root","Anouars6");
+                connection = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/projetintegre","root","");
             System.out.println("ok");
             
         } catch(Exception e){
