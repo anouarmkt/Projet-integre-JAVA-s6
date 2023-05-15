@@ -3,16 +3,16 @@ Projet réalisé en S6 avec JAVA SWING . Ce Projet est une application Desktop d
 
 
 ![UI-JAVA-SPRING](https://user-images.githubusercontent.com/83381574/220209158-6396cd2c-7da2-4e54-87a9-f7e3efd20e84.jpg)
-# Login Page
+# Login Page :
        
        
 ![IMG-20220609-WA0000 (1)](https://github.com/anouarmkt/Projet-integre-JAVA-s6/assets/83381574/1823698d-1a3b-4992-9707-4f0da1c703be)
 
-# Sign up Page
+# Sign up Page :
 
 ![IMG-20220609-WA0018](https://github.com/anouarmkt/Projet-integre-JAVA-s6/assets/83381574/4a8e6849-9ceb-4217-9dbd-ae73c6da500a)
 
-# Admin Page
+# Admin Page :
 
 ![UI-JAVA-SPRING](https://user-images.githubusercontent.com/83381574/220209158-6396cd2c-7da2-4e54-87a9-f7e3efd20e84.jpg)
 
@@ -43,7 +43,7 @@ Projet réalisé en S6 avec JAVA SWING . Ce Projet est une application Desktop d
 
 ![IMG-20220609-WA0014](https://github.com/anouarmkt/Projet-integre-JAVA-s6/assets/83381574/37b9d3f9-14b7-45d8-8678-7e7cdfd148d6)
 ![IMG-20220609-WA0010](https://github.com/anouarmkt/Projet-integre-JAVA-s6/assets/83381574/5aae80d4-7a61-47d4-b898-dac452742796)
-# Client Page
+# Client Page :
       Home Page
 ![IMG-20220609-WA0001 (1)](https://github.com/anouarmkt/Projet-integre-JAVA-s6/assets/83381574/44b39b7a-8e28-427c-8d25-4811c48d70b7)
       
